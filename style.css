@@ -1,0 +1,22 @@
+.red
+{
+    background-color:red;
+    width: 100px;
+    height: 100px;
+    padding: 50px;
+    /*to increase the size */
+}
+.blue
+{
+    background-color:dodgerblue;
+    width: 100px;
+    height: 100px;
+    margin: 50px;
+     /*to decrease the size */
+}
+.green
+{
+    background-color:green;
+    width: 100px;
+    height: 100px;
+}
